@@ -1902,8 +1902,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NoteSpawner
   notePrefab: {fileID: 329665794622249345, guid: 3facc921711d8f14680730220a72795d, type: 3}
   poolSize: 15
-  minSpawnInterval: 0.4
-  maxSpawnInterval: 1.2
+  minSpawnInterval: 0.2
+  maxSpawnInterval: 0.5
   leftSpawnPosition: {x: -1.3737, y: 2.66, z: 0}
   rightSpawnPosition: {x: 1.3737, y: 2.66, z: 0}
 --- !u!114 &1143828357
